@@ -1,0 +1,77 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+sub{font-size: 15px;
+    color: coral;
+  }
+h1{font-size: 40px;
+    
+}
+.top-bar{
+
+    background-color:rgba(0, 0, 0, 0.744);
+    padding: 20px;
+    border-radius: 7px;
+    color:honeydew;
+}
+.foodie-items{
+    display: flex;
+}
+span{
+    color: coral;
+}
+.content{
+    width: 40%;
+    padding-left: 7%;
+    margin-bottom: 100px;
+}
+.content img{
+    width:65.5% ;
+    padding-left: 35%;
+    
+  
+}
+.button{
+     text-decoration: none;
+     background-color: coral;
+     padding: 15px;
+     border-radius: 15px;
+     box-shadow:0 0 10px rgba(255, 127, 80, 0.751);
+}
+.middle-banner{
+    background-image: url(image/back-mid-photo.png);
+    background-repeat: no-repeat;
+    background-size: 100% ;   
+}
+.my-recipes{
+    text-align: center;
+    margin-left: 27%;
+    margin-right: 30%;
+}
+.recipe-item{
+  width: 50%;   
+  margin: 3%;
+  padding: 20px ;
+  height: 170%;
+  
+  border-radius: 22px;
+  box-shadow:2px 1px 25px 10px rgba(128, 128, 128, 0.179) ;
+}
+.recipe-item img{
+    width: 100%;
+    
+    padding-left: 1%;
+   
+}
+footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.744);
+    padding: 10px;
+    color: honeydew;
+    border-radius: 7px;
+}
+.final-cut{
+    margin: 20px 30px;
+
+}
